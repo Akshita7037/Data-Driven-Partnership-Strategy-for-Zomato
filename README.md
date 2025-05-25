@@ -1,8 +1,6 @@
 # Zomato Restaurant Data Analysis
 
 
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-yellowgreen)
-
 ## 📊 Project Overview
 
 This project analyzes Zomato restaurant data to uncover insights about customer preferences, restaurant performance, and dining trends in India. The analysis includes exploratory data analysis (EDA), data visualization, and answering key business questions.
