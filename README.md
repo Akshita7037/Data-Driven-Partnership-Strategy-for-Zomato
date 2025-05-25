@@ -48,23 +48,23 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
 ## 📈 Key Findings
 
 ### 1. Restaurant Type Distribution
-![Type Distribution](https://i.imgur.com/example1.png)
+![Type Distribution]
 - **Dining** restaurants are most popular (77)
 - Followed by **Cafes** (15)
 - **Buffet** and **Other** types are less common
 
 ### 2. Rating Analysis
-![Rating Distribution](https://i.imgur.com/example2.png)
+![Rating Distribution]
 - Most restaurants have ratings between **3.5-4.0**
 - Average rating: **3.63**
 
 ### 3. Cost Analysis
-![Cost Distribution](https://i.imgur.com/example3.png)
+![Cost Distribution]
 - Most common price range: **₹300-₹600** for two people
 - Average spending: **₹418**
 
 ### 4. Online vs Offline Comparison
-![Order Mode](https://i.imgur.com/example4.png)
+![Order Mode]
 - Online orders receive **higher ratings** on average
 - Dining restaurants receive more **offline orders**
 
@@ -77,3 +77,34 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
 
 ### Zomato Dataset
 - Download Restaurant_data.xlsx
+
+### Folder Details:
+
+1. **`data/`**  
+   - Contains the raw dataset file `Restaurant_data.xlsx`
+  
+
+2. **`notebooks/`**  
+   - Jupyter notebook `Restaurant_data_code.ipynb` with:
+     - Data cleaning code
+     - Exploratory analysis
+     - Visualization code
+     - Insights generation
+
+3. **`reports/`**  
+   - PDF report `Restaurant_data_report.pdf` containing:
+     - Full project documentation
+     - Methodology
+     - Analysis results
+     - Visualizations
+     - Conclusions
+
+4. **`visuals/`**  
+   - Generated visualization images:
+     - `rating_dist.png`: Distribution of restaurant ratings
+     - `type_dist.png`: Distribution of restaurant types  
+     - `cost_dist.png`: Distribution of approximate costs
+
+5. **Root Files**  
+   - `README.md`: Project overview and documentation
+   - `requirements.txt`: Python dependencies list
