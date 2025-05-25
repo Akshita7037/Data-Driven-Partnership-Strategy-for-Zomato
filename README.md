@@ -91,7 +91,7 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
      - Insights generation
 
 3. **`reports/`**  
-   - PDF report `Restaurant_data_report.pdf` containing:
+   - PDF report `Restaurant_Data-Analysis_Report.pdf` containing:
      - Full project documentation
      - Methodology
      - Analysis results
