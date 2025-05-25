@@ -76,9 +76,9 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
 
 ### Zomato Dataset
 - Download Restaurant_data.xlsx
+  
 
-### Folder Details:
-
+### Folder Details
 1. **`data/`**  
    - Contains the raw dataset file `Restaurant_data.xlsx`
   
