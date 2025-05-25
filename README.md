@@ -47,26 +47,30 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
 ## 📈 Key Findings
 
 ### 1. Restaurant Type Distribution
-![Type Distribution]![image](https://github.com/user-attachments/assets/7103e3af-651a-486b-bee9-c1299fdae0ae)
+![Type Distribution]![image]![image](https://github.com/user-attachments/assets/21266e94-008e-49df-9f08-03b4a6684517)
+
 
 - **Dining** restaurants are most popular (77)
 - Followed by **Cafes** (15)
 - **Buffet** and **Other** types are less common
 
 ### 2. Rating Analysis
-![Rating Distribution]![image](https://github.com/user-attachments/assets/f503cdf1-c0d9-475a-830e-1424fbbe46c4)
+![Rating Distribution]![image](https://github.com/user-attachments/assets/b7edd937-d9a3-4b01-87c4-95db016f473c)
+
 
 - Most restaurants have ratings between **3.5-4.0**
 - Average rating: **3.63**
 
 ### 3. Cost Analysis
-![Cost Distribution]![image](https://github.com/user-attachments/assets/2829bf13-e8b6-4479-aad4-3fc94dc8e36d)
+![Cost Distribution]![image](https://github.com/user-attachments/assets/8cc5011c-6285-4649-98e5-05372ee94fd5)
+
 
 - Most common price range: **₹300-₹600** for two people
 - Average spending: **₹418**
 
 ### 4. Online vs Offline Comparison
-![Order Mode]![image](https://github.com/user-attachments/assets/a75a3aec-6219-4c57-b233-81bc2a2db169)
+![Order Mode]![image](https://github.com/user-attachments/assets/ebe909a0-342e-4d7d-b9c5-4fc1a2cc2170)
+
 
 - Online orders receive **higher ratings** on average
 - Dining restaurants receive more **offline orders**
