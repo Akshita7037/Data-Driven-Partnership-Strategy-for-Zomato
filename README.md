@@ -1,6 +1,7 @@
 # Zomato Restaurant Data Analysis
 
 
+
 ## 📊 Project Overview
 
 This project analyzes Zomato restaurant data to uncover insights about customer preferences, restaurant performance, and dining trends in India. The analysis includes exploratory data analysis (EDA), data visualization, and answering key business questions.
@@ -97,12 +98,6 @@ This project analyzes Zomato restaurant data to uncover insights about customer 
      - Visualizations
      - Conclusions
 
-4. **`visuals/`**  
-   - Generated visualization images:
-     - `rating_dist.png`: Distribution of restaurant ratings
-     - `type_dist.png`: Distribution of restaurant types  
-     - `cost_dist.png`: Distribution of approximate costs
-
-5. **Root Files**  
+4. **Root Files**  
    - `README.md`: Project overview and documentation
    - `requirements.txt`: Python dependencies list
